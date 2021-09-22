@@ -1,4 +1,6 @@
 - 👋 Hi!
+
+
 I am a Computer Science Engineer specialized in Full Stack web development, passionate on making and launching software products, leading engineering teams and leveraging technology to tackle big real-world problems.
 
 
